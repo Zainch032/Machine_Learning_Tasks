@@ -30,4 +30,4 @@ A curated collection of all machine learning tasks and experiments conducted in 
 ## 🚀 How to Use
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/ml-lab-tasks.git
+   git clone https://github.com/Zainch032/Machine_Learning_Tasks
